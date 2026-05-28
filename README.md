@@ -24,6 +24,9 @@ I am a highly motivated developer who loves exploring new technologies. Currentl
 
 ## GitHub Stats
 
-![Prahalad Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-BlackHat-lab&show_icons=true&theme=vision-friendly-dark)
+![My metrics](github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-BlackHat-lab&layout=compact&theme=vision-friendly-dark)
+
+## Guestbook ([🆕🖊️ add an entry](https://github.com/Mr-BlackHat-lab/Mr-BlackHat-lab/issues/1#issuecomment-new))
+<!-- Guestbook -->
+<!-- /Guestbook -->
